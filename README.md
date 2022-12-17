@@ -1,4 +1,4 @@
-# tech-blog:
+# tech-blog-2022:
 
   [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
