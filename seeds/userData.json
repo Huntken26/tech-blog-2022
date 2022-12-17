@@ -1,0 +1,20 @@
+[
+    {
+      "id": "1",
+      "username": "User1",
+      "password": "password10",
+      "registeredAt": "2020-12-12"
+    },
+    {
+      "id":"2",
+      "username": "User2",
+      "password": "wordpass10",
+      "registeredAt": "2020-12-12"
+    },
+    {
+      "id" : "3",
+      "username": "User3",
+      "password": "pa33word10",
+      "registeredAt": "2020-12-12"
+    }
+  ]

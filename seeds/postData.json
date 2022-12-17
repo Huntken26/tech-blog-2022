@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Post 1",
+    "text": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem.",
+    "createdAt": "2022-12-12",
+    "userID": 1
+  },
+  {
+    "id": 2,
+    "name": "Post 2",
+    "text": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem.",
+    "createdAt":"2022-12-12",
+    "userID": 2
+  },
+  {
+    "id": 3,
+    "name": "Post 3",
+    "text": "lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem lorem ipsum dolor sit amet, consectetur adip lorem ipsum dolor sit amet lorem.",
+    "createdAt":"2022-12-12",
+    "userID": 3
+  }
+]

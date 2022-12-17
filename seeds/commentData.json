@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "User1",
+    "text": "Example comment for tech bloggers_db",
+    "createdAt": "2022-12-12",
+    "postID": 1
+  },
+  {
+    "id": 2,
+    "username": "User2",
+    "text": "Example comment number 2 for tech bloggers_db",
+    "createdAt": "2022-12-12",
+    "postID": 2
+  },
+  {
+    "id": 3,
+    "username": "User3",
+    "text": "Example comment number 3 for tech bloggers_db",
+    "createdAt": "2022-12-12",
+    "postID": 3
+  }
+]
