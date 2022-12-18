@@ -26,7 +26,7 @@ Set up the db. npm run seed. npm start. Use the app.<br/>
 Check the walkthrough video below:<br/>
 https://youtu.be/DYY5I3ewFMM
 
-Live link: https://pure-chamber-97326.herokuapp.com/
+Live link: https://vast-badlands-74147.herokuapp.com/
 ## CREDITS:
 
 I'd like to thank Thanks to the people that were able to help me at least get this far- my tutor Chris, TA Ethan, Instructor Kyle. I also used bulma technologies for their templates and the mini project from our class activities. for helping me with this project.
